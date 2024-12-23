@@ -1,0 +1,39 @@
+Personal Portfolio
+Welcome to my personal portfolio repository! This project showcases my skills and projects using HTML, CSS, JavaScript, and Bootstrap.
+
+Table of Contents
+Description
+Technologies Used
+Features
+Setup
+Usage
+License
+Description
+This repository houses the source code for my personal portfolio website. It serves as a platform to highlight my skills, projects, and achievements.
+
+Technologies Used
+HTML
+CSS
+JavaScript
+Bootstrap
+Features
+Clean and responsive design
+Showcase of projects with detailed descriptions
+Contact form for easy communication
+Setup
+Clone the repository: git clone https://github.com/sourabhm01/Sourabh-portfolio.git
+Navigate to the project directory: cd personal-portfolio
+Open index.html in your preferred browser.
+Usage
+Feel free to explore the codebase, customize it according to your preferences, and use it as a template for your own portfolio. Update the projects section with your own projects and tweak the styling to match your personal brand.
+
+If you make significant changes or improvements, consider contributing back by creating a pull request. I'd love to see how others customize and enhance this portfolio template!
+
+License
+This project is licensed under the MIT License. Feel free to use and modify the code for your own purposes. If you find it helpful, a link back to this repository would be appreciated.
+
+
+
+
+
+
